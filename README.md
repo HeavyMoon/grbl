@@ -1,3 +1,11 @@
+added pen plotter features.
+- 61Hz PWM for RC servo
+- pinout for CNC Shield V4
+
+
+***
+
+
 ![GitHub Logo](https://github.com/gnea/gnea-Media/blob/master/Grbl%20Logo/Grbl%20Logo%20250px.png?raw=true)
 
 ***
