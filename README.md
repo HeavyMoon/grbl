@@ -1,6 +1,7 @@
 added pen plotter features.
 - 61Hz PWM for RC servo
 - pinout for CNC Shield V4
+- enable homing
 
 
 ***
